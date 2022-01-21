@@ -1,5 +1,5 @@
-line C 
-line B 
 line A 
+line B 
+line G
 line D 
-line E 
+line F 
